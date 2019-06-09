@@ -1,0 +1,43 @@
+2019/05/19 22:45:34 [notice] 10120#11188: signal process started
+2019/05/19 22:45:59 [error] 16820#16308: *2 CreateFile() "C:\nginx-1.15.12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /favicon.ico HTTP/1.1", host: "192.168.254.107", referrer: "http://192.168.254.107/"
+2019/05/21 00:00:20 [error] 14764#11932: *2 CreateFile() "C:\nginx-1.15.12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /favicon.ico HTTP/1.1", host: "192.168.254.107", referrer: "http://192.168.254.107/"
+2019/05/21 00:01:11 [error] 14764#11932: *4 CreateFile() "C:\nginx-1.15.12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.254.120, server: 192.168.254.107, request: "GET /favicon.ico HTTP/1.1", host: "192.168.254.107", referrer: "http://192.168.254.107/"
+2019/05/21 22:34:51 [error] 14764#11932: *6 CreateFile() "C:\nginx-1.15.12/html/ad/thunder8/show/newadtask.xml" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: 192.168.254.107, request: "GET /ad/thunder8/show/newadtask.xml HTTP/1.1", host: "biz4.sandai.net"
+2019/06/09 14:38:03 [emerg] 18836#18508: invalid number of arguments in "proxy_pass" directive in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:38:44 [emerg] 4304#17224: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:46
+2019/06/09 14:39:17 [emerg] 18340#14460: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:46
+2019/06/09 14:39:36 [emerg] 9348#18296: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:39:47 [emerg] 10304#12600: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:40:09 [emerg] 1872#5944: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:40:22 [emerg] 12096#16044: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:41:37 [emerg] 13508#12444: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:41:53 [emerg] 18172#13136: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:42:08 [emerg] 19360#18164: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:42:26 [error] 10972#2720: *2 CreateFile() "C:\nginx-1.15.12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /favicon.ico HTTP/1.1", host: "192.168.254.107", referrer: "http://192.168.254.107/"
+2019/06/09 14:43:12 [error] 10972#2720: *2 CreateFile() "C:\nginx-1.15.12/html/api" failed (2: The system cannot find the file specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /api HTTP/1.1", host: "192.168.254.107"
+2019/06/09 14:46:43 [emerg] 19008#19240: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:46:43 [alert] 18196#260: worker process 19008 exited with code 1
+2019/06/09 14:46:43 [alert] 18196#260: could not respawn worker
+2019/06/09 14:47:39 [emerg] 2532#18428: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:47:57 [emerg] 16640#13908: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:48:05 [emerg] 17120#7288: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:48:24 [emerg] 14308#3444: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:48:38 [emerg] 7980#14644: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:50:19 [emerg] 348#12636: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:51:08 [emerg] 4232#13124: invalid URL prefix in C:\nginx-1.15.12/conf/nginx.conf:44
+2019/06/09 14:51:30 [notice] 10444#14820: signal process started
+2019/06/09 14:51:52 [error] 6804#12124: *6 "C:\nginx-1.15.12/html/api/index.html" is not found (3: The system cannot find the path specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /api/ HTTP/1.1", host: "192.168.254.107"
+2019/06/09 14:52:04 [error] 6804#12124: *6 CreateFile() "C:\nginx-1.15.12/html/api" failed (2: The system cannot find the file specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /api HTTP/1.1", host: "192.168.254.107"
+2019/06/09 14:52:12 [error] 6804#12124: *6 CreateFile() "C:\nginx-1.15.12/html/api/index" failed (3: The system cannot find the path specified), client: 192.168.254.107, server: 192.168.254.107, request: "GET /api/index HTTP/1.1", host: "192.168.254.107"
+2019/06/09 14:54:48 [error] 6804#12124: *9 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.254.107, server: 192.168.254.107, request: "GET /apis/ HTTP/1.1", upstream: "http://[::1]:5000/apis/", host: "192.168.254.107"
+2019/06/09 14:55:06 [notice] 16524#5464: signal process started
+2019/06/09 14:55:14 [error] 11564#14488: *15 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.254.107, server: 192.168.254.107, request: "GET /api/ HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.254.107"
+2019/06/09 14:55:34 [emerg] 4344#12052: invalid number of arguments in "proxy_pass" directive in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:58:46 [emerg] 6264#17660: invalid number of arguments in "proxy_pass" directive in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:59:13 [emerg] 10508#9956: invalid number of arguments in "proxy_pass" directive in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:59:30 [emerg] 7696#3360: unexpected "}" in C:\nginx-1.15.12/conf/nginx.conf:45
+2019/06/09 14:59:39 [emerg] 17056#1796: invalid number of arguments in "proxy_pass" directive in C:\nginx-1.15.12/conf/nginx.conf:49
+2019/06/09 14:59:56 [notice] 18320#10492: signal process started
+2019/06/09 15:00:02 [error] 5824#15064: *24 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.254.107, server: 192.168.254.107, request: "GET / HTTP/1.1", upstream: "http://[::1]:3000/", host: "192.168.254.107"
+2019/06/09 15:00:12 [error] 5824#15064: *50 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.254.107, server: 192.168.254.107, request: "GET /api/ HTTP/1.1", upstream: "http://[::1]:5000/", host: "192.168.254.107"
+2019/06/09 15:00:27 [error] 5824#15064: *53 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.254.107, server: 192.168.254.107, request: "GET /static/js/0.chunk.js HTTP/1.1", upstream: "http://[::1]:3000/static/js/0.chunk.js", host: "192.168.254.107", referrer: "http://192.168.254.107/"
